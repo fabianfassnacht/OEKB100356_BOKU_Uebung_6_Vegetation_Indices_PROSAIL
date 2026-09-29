@@ -1,4 +1,8 @@
+OEKB100356 Einführung in die Fernerkundung - Tag 6 - Vegetationsindizes
+
 ## TEIL 1: Berechnung von Vegetationsindizes in R
+
+ACHTUNG: Dies ist ein optionales Tutorial, mit dem Sie Zusatzpunkte erreichen können. Die Abgabe ist nicht verpflichtend.
 
 ### Überblick
 
@@ -367,16 +371,8 @@ Dies ergibt:
 
 ## Hausaufgabe - Teil 2
 
-Versuchen Sie, durch Variation der PROSAIL-Parameter NDVI-Werte von 0.20,
-0.40 und 0.80 zu erzeugen. Notieren Sie die PROSAIL-Paramter mit denen sie die jeweiligen NDVI-Werte erhalten haben. Prüfen Sie auch, ob mehrere
-Parameterkombinationen zu denselben NDVI-Werten führen, und überlegen
-Sie, was das für die Aussagekraft des NDVI bedeutet.
+Versuchen Sie, durch Variation der PROSAIL-Parameter NDVI-Werte von 0.20, 0.40 und 0.80 zu erzeugen. Notieren Sie die PROSAIL-Paramter mit denen sie die jeweiligen NDVI-Werte erhalten haben. Prüfen Sie auch, ob mehrere Parameterkombinationen zu denselben NDVI-Werten führen, und überlegen Sie, was das für die Aussagekraft des NDVI bedeutet.
 
 ### Abschluss
 
-Damit sind wir am Ende dieses kurzen Einblicks in die Welt der
-Strahlungstransfermodelle. Diese Modelle helfen dabei zu verstehen, wie
-Pflanzeneigenschaften die Reflexion elektromagnetischer Strahlung
-beeinflussen. In Kombination mit hochauflösenden Fernerkundungsdaten
-können sie ein sehr leistungsfähiges Werkzeug sein, insbesondere für
-Modellinversionen.
+Damit sind wir am Ende dieses kurzen Einblicks in die Welt der Strahlungstransfermodelle. Diese Modelle helfen dabei zu verstehen, wie Pflanzeneigenschaften die Reflexion elektromagnetischer Strahlung beeinflussen. In Kombination mit hochauflösenden Fernerkundungsdaten können sie ein sehr leistungsfähiges Werkzeug sein, insbesondere für Modellinversionen.
